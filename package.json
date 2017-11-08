@@ -1,5 +1,12 @@
 {
   "name": "tailwind-rails-example",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@rails/webpacker": "^3.0.2",
+    "coffeescript": "1.12.7"
+  },
+  "devDependencies": {
+    "tailwindcss": "^0.1.5",
+    "webpack-dev-server": "^2.9.4"
+  }
 }
